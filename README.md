@@ -4,6 +4,6 @@ A collection of articles, books, references, and links, related to everything fr
 
 ## Contributors
 
-* [Shishir Shrivastava](https://github.com/shishir-srivastava)
+* [Shishir Srivastava](https://github.com/shishir-srivastava)
 * [Pavan K](https://github.com/pavan-fk)
 * [Harshita Kasera](https://github.com/hkasera)
